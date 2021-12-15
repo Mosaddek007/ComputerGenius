@@ -1,0 +1,13 @@
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\bin\Debug\ComputerGenius.exe.config
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\bin\Debug\ComputerGenius.exe
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\bin\Debug\ComputerGenius.pdb
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.csproj.AssemblyReference.cache
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.Properties.Resources.resources
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.csproj.GenerateResource.cache
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.csproj.CoreCompileInputs.cache
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.exe
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.pdb
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.LoginPage.resources
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.Form2.resources
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.Form3.resources
+D:\# 6th Semester\SOFTWARE ENGINEERING [J]\Project\ComputerGenius\ComputerGenius\obj\Debug\ComputerGenius.Form4.resources
